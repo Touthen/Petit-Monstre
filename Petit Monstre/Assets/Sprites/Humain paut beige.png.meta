@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 13f4079f66e00ae4aa9aa1f4470ae073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8935072039160983698
+    second: Humain paut beige_0
+  - first:
+      213: -2427811271114444297
+    second: Humain paut beige_1
+  - first:
+      213: 313430082230143196
+    second: Humain paut beige_2
+  - first:
+      213: 1637795346690235987
+    second: Humain paut beige_3
+  - first:
+      213: 4354016537852629477
+    second: Humain paut beige_4
+  - first:
+      213: -3639249389260667188
+    second: Humain paut beige_5
+  - first:
+      213: -3154252021776932815
+    second: Humain paut beige_6
+  - first:
+      213: 1173723034652858892
+    second: Humain paut beige_7
+  - first:
+      213: -6802480851981412140
+    second: Humain paut beige_8
+  - first:
+      213: 2148480648405943641
+    second: Humain paut beige_9
+  - first:
+      213: 1747767577318552720
+    second: Humain paut beige_10
+  - first:
+      213: -3235112708668976924
+    second: Humain paut beige_11
+  - first:
+      213: -4226475862843694245
+    second: Humain paut beige_12
+  - first:
+      213: 6230670927883917168
+    second: Humain paut beige_13
+  - first:
+      213: 4030551045178826987
+    second: Humain paut beige_14
+  - first:
+      213: 5540922869275038575
+    second: Humain paut beige_15
+  - first:
+      213: -4372645802065260110
+    second: Humain paut beige_16
+  - first:
+      213: 4907716809548185888
+    second: Humain paut beige_17
+  - first:
+      213: 8377233970782245599
+    second: Humain paut beige_18
+  - first:
+      213: -1771351110390585191
+    second: Humain paut beige_19
+  - first:
+      213: -3575012080490793978
+    second: Humain paut beige_20
+  - first:
+      213: -4790688160473262674
+    second: Humain paut beige_21
+  - first:
+      213: 933794197741010349
+    second: Humain paut beige_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Humain paut beige_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc847025f300480800000000000000
+      internalID: -8935072039160983698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1b883138eae4ed0800000000000000
+      internalID: -2427811271114444297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8cf39cff6895400800000000000000
+      internalID: 313430082230143196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e524eb03e9ab610800000000000000
+      internalID: 1637795346690235987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d1ecf8f29c6c30800000000000000
+      internalID: 4354016537852629477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1635
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc68f0846f9ce7dc0800000000000000
+      internalID: -3639249389260667188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130ade58f78d934d0800000000000000
+      internalID: -3154252021776932815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5d21a1e6e94010800000000000000
+      internalID: 1173723034652858892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1635
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8504ac4bbb891a0800000000000000
+      internalID: -6802480851981412140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955890f34cfe0dd10800000000000000
+      internalID: 2148480648405943641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094740cf951514810800000000000000
+      internalID: 1747767577318552720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01f6fb1229a13d0800000000000000
+      internalID: -3235112708668976924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536077789a8855c0800000000000000
+      internalID: -4226475862843694245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077dfd8823ac77650800000000000000
+      internalID: 6230670927883917168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a6f022d46fe730800000000000000
+      internalID: 4030551045178826987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631af61eff45ec40800000000000000
+      internalID: 5540922869275038575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_16
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11c4f6fcd3153c0800000000000000
+      internalID: -4372645802065260110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humain paut beige_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1515
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0214553af66bb1440800000000000000
+      internalID: 4907716809548185888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
